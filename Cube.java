@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+//Missing most of the funcitonality, An ok start though.
+
 public class Cube {
 
 	public static void main(final String[] args) {
